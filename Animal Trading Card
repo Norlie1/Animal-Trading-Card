@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+ <div class="tradingcard">
+		<h3>Tiger</h3>
+		<img src="file (2).jpg" alt="tiger">
+   <div class="infobox">
+       
+			<p class="fact">No two tigers have the same stripes.</p>
+            <ul class="list-info">
+				<li><span>Scientific Name</span>: Panthera Tigris</li>
+				<li><span>Average Length</span>: 10 feet</li>
+				<li><span>Average Lifespan</span>: 10-15 years</li>
+				<li><span>Habitat</span>: Evergreen Forest</li>
+			</ul>
+			<p>The tiger, a formidable and majestic feline, is distinguished by its vibrant orange coat adorned with black stripes. As an apex predator, it primarily preys on species such as deer and wild boar. Tigers are solitary by nature and inhabit diverse ecosystems across Asia. However, they are increasingly threatened by habitat destruction and poaching, placing them in danger of extinction.</p>
+		</div>
+	</div>
+</body>
+</html>
